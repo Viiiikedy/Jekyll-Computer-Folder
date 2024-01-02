@@ -2,8 +2,18 @@
 layout: me
 title: Me
 ---
-<br />
-👋Hello guys,welcome to Vicky's Computer Site.  
+<br/>
+<div style="text-align: center;">
+  <img src="https://s2.loli.net/2023/12/04/AsUeVqg5y2IKhSB.jpg" width="25%" style="border-radius: 50%;">
+</div>
+<br/>
+
+<center><strong><font size="5">👋Hello guys, welcome to Vicky's DS Garden.</font></strong></center>
+
+> ⚪ Data Science Driven Solution does not mean efficiency for me, but also means innovation for the global world
+
+
+
 - 🎥Here I will share 
 > 1️⃣my <u>notes</u> and 2️⃣completed <u>projects</u> when learning Computer Science  
 3️⃣and some <u>interview</u> exercise with 4️⃣the blog <u>posts</u> here.    
